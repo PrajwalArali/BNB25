@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  root: '.', // or './frontend' if your config is in a different location
+  root: './frontend', // or './frontend' if your config is in a different location
   build: {
     outDir: 'dist',
   }
