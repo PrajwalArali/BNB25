@@ -1,1 +1,3 @@
 # BNB25
+We have developed a secure, scalable blockchain system that records transactions in a transparent, tamper-proof ledger. It supports smart contracts, real-time validation, and  data management for high reliability.
+To improve user interaction, we integrated an AI-powered chatbot that lets stakeholders query the ledger, track transactions, and receive instant updates through natural conversation. This combination delivers trust, efficiency, and an intuitive user experience suitable for finance, supply-chain, or enterprise applications.
