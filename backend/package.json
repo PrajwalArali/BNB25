@@ -19,6 +19,6 @@
     "nodemon": "^3.1.10",
      "dotenv": "^16.4.5",
     "axios": "^1.7.7",
-    "@clerk/backend": "^2.14.0",
+    "@clerk/backend": "^2.14.0"
   }
 }
